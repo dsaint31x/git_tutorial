@@ -1,3 +1,7 @@
 # content
 
 두번째 commit에 추가되는 파일임.
+
+# content
+
+세번째 commit에 추가되는 파일임.
